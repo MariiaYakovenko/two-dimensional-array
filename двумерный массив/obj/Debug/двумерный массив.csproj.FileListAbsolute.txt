@@ -1,0 +1,7 @@
+D:\aProgramin\Masha's C#\GitHub\двумерный массив\bin\Debug\двумерный массив.exe.config
+D:\aProgramin\Masha's C#\GitHub\двумерный массив\bin\Debug\двумерный массив.exe
+D:\aProgramin\Masha's C#\GitHub\двумерный массив\bin\Debug\двумерный массив.pdb
+D:\aProgramin\Masha's C#\GitHub\двумерный массив\obj\Debug\двумерный массив.csprojAssemblyReference.cache
+D:\aProgramin\Masha's C#\GitHub\двумерный массив\obj\Debug\двумерный массив.csproj.CoreCompileInputs.cache
+D:\aProgramin\Masha's C#\GitHub\двумерный массив\obj\Debug\двумерный массив.exe
+D:\aProgramin\Masha's C#\GitHub\двумерный массив\obj\Debug\двумерный массив.pdb
